@@ -1,0 +1,72 @@
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\bin\Debug\EducationPlane.Screens.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\bin\Debug\EducationPlane.Screens.pdb
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlaneScreens.csprojResolveAssemblyReference.cache
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\SketchStyles.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens_MarkupCompile.cache
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens_MarkupCompile.lref
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens.g.resources
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens.dll
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens.pdb
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Copy_of_Screen_1.g.cs
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Copy_of_Screen_1.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\About.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Help_.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\List.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Save.baml
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\About.g.cs
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Help_.g.cs
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\List.g.cs
+C:\Users\Станислав\Documents\Expression\Blend 4\Projects\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Save.g.cs
+G:\Прототип WPF\EducationPlane\EducationPlane\bin\Debug\EducationPlane.Screens.dll
+G:\Прототип WPF\EducationPlane\EducationPlane\bin\Debug\EducationPlane.Screens.pdb
+G:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlaneScreens.csprojResolveAssemblyReference.cache
+G:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\About.baml
+G:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Help_.baml
+G:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\SketchStyles.baml
+G:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\About.g.cs
+G:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Copy_of_Screen_1.g.cs
+G:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Help_.g.cs
+G:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens_MarkupCompile.cache
+G:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens_MarkupCompile.lref
+G:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Copy_of_Screen_1.baml
+G:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens.g.resources
+G:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens.dll
+G:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens.pdb
+F:\Прототип WPF\EducationPlane\EducationPlane\bin\Debug\EducationPlane.Screens.dll
+F:\Прототип WPF\EducationPlane\EducationPlane\bin\Debug\EducationPlane.Screens.pdb
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlaneScreens.csprojResolveAssemblyReference.cache
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\About.baml
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Help_.baml
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\List.baml
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Save.baml
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Screen_1.baml
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\SketchStyles.baml
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\About.g.cs
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Copy_of_Screen_1.g.cs
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Help_.g.cs
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\List.g.cs
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Save.g.cs
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Screen_1.g.cs
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens_MarkupCompile.cache
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens_MarkupCompile.lref
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Copy_of_Screen_1.baml
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens.g.resources
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens.dll
+F:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens.pdb
+G:\Прототип WPF\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Simple Styles.baml
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\bin\Debug\EducationPlane.Screens.dll
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\bin\Debug\EducationPlane.Screens.pdb
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlaneScreens.csprojResolveAssemblyReference.cache
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\About.baml
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Help_.baml
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Simple Styles.baml
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\SketchStyles.baml
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\About.g.cs
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Copy_of_Screen_1.g.cs
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Help_.g.cs
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens_MarkupCompile.cache
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens_MarkupCompile.lref
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\Copy_of_Screen_1.baml
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens.g.resources
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens.dll
+C:\Users\Станислав\Desktop\EducationPlane\EducationPlane\EducationPlaneScreens\obj\Debug\EducationPlane.Screens.pdb

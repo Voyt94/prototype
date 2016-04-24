@@ -1,0 +1,20 @@
+﻿<UserControl
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:pi="http://schemas.microsoft.com/prototyping/2010/interactivity" x:Name="About_Name"
+	mc:Ignorable="d"
+	x:Class="EducationPlaneScreens.About"
+	Width="388" Height="163">
+
+	<Grid x:Name="LayoutRoot" Background="White">
+		<TextBlock Margin="70.453,31,83.586,0" TextWrapping="Wrap" FontSize="21.333" Height="73.06" d:LayoutOverrides="Width" VerticalAlignment="Top"><Run Text="Прототип &quot;Подготовка шаблонов документов&quot; "/><LineBreak/><Run Language="ru-ru" Text="&#x9;"/><Run Text="вер"/><Run Language="ru-ru" Text="с"/><Run Text="ия 1.2"/></TextBlock>
+		<Button Content="Назад" Margin="144,0,158,16.723" VerticalAlignment="Bottom" Height="24.277">
+			<i:Interaction.Triggers>
+				<i:EventTrigger EventName="Click">
+					<pi:NavigateToScreenAction TargetScreen="EducationPlaneScreens.Copy_of_Screen_1"/>
+				</i:EventTrigger>
+			</i:Interaction.Triggers>
+		</Button>
+	</Grid>
+</UserControl>
